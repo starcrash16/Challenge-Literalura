@@ -70,7 +70,7 @@ Base de datos PostgreSQL instalada y configurada correctamente
 
 Clona este repositorio:
 
-git clone https://github.com/tuusuario/Literalura.git
+git clone https://github.com/starcrash16/Literalura.git
 cd Literalura
 
 
